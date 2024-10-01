@@ -4,3 +4,4 @@
 3. index.html: ubicar la página web creada en minúsculas.
 4. index.ipynb: código python.
 Paso a mostrar la página donde está mi trabajo:
+LINK:https://davasquezm.github.io/PC2/
